@@ -1,0 +1,6 @@
+OBJECT_SHARED Models/Airport/ndb.ac 43.179694 11.547053 1.13 180
+OBJECT_SHARED Models/Airport/ils.xml 43.168539 11.546122 7.4 89.23
+OBJECT_SHARED Models/Airport/tacan.xml 43.154836 11.549211 9.06 180
+OBJECT_SHARED Models/Airport/marker.ac 43.179694 11.547053 1.13 180
+OBJECT_SHARED Models/Airport/localizer.xml 43.142556 11.547569 15.04 0.81
+OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac 43.1308144 11.6123332 -0.07 302.35
